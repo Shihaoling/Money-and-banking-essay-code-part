@@ -6,5 +6,5 @@ You should have the following third-party package to run code successfully:
 - numpy
 - pandas
 - matplotlib
-- plot
+- plotly
  
